@@ -1,5 +1,5 @@
 <template>
-    <h1>Layout</h1>
+    <h1>¡Hola Vue!</h1>
 </template>
 
 <script>
